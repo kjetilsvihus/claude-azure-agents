@@ -1,0 +1,8 @@
+{
+  "name": "azure",
+  "version": "0.1.0",
+  "description": "Fire subagents for Azure-integrasjonsarbeid: designer, coder, tester og QA. Logic Apps Standard, Azure Functions (TypeScript/Node), APIM, Key Vault, Service Bus.",
+  "author": {
+    "name": "Boreal Integrasjon"
+  }
+}

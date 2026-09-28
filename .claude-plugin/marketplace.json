@@ -1,0 +1,13 @@
+{
+  "name": "claude-azure-agents",
+  "owner": {
+    "name": "Boreal Integrasjon"
+  },
+  "plugins": [
+    {
+      "name": "azure",
+      "source": "./plugins/azure",
+      "description": "Design-, kode-, test- og QA-agenter for Boreals Azure-integrasjonsarbeid"
+    }
+  ]
+}
